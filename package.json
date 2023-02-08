@@ -1,0 +1,22 @@
+{
+  "name": "own",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-audiorecorder": "^3.0.0",
+    "puppeteer": "^19.6.3",
+    "puppeteer-extra": "^3.3.4",
+    "puppeteer-extra-plugin-stealth": "^2.11.1",
+    "puppeteer-screen-recorder": "^2.1.2",
+    "puppeteer-stream": "^2.1.4",
+    "screencap": "^1.0.0"
+  }
+}
